@@ -1,11 +1,11 @@
 # Indice
 
-[Projeto Calendário Interativo](#-projeto-calend%C3%A1rio-interativo)  
-[Descrição](#-descri%C3%A7%C3%A3o)
-[Funcionalidades](#%EF%B8%8F-funcionalidade) 
-[Tecnologias utilizadas](#-tecnologias-utilizadas) 
-[Fontes consultadas](#-fontes-consultadas)
-[Autores](#-autores)
+[Projeto Calendário Interativo](#-projeto-calend%C3%A1rio-interativo)    
+[Descrição](#-descri%C3%A7%C3%A3o)  
+[Funcionalidades](#%EF%B8%8F-funcionalidade)   
+[Tecnologias utilizadas](#-tecnologias-utilizadas)   
+[Fontes consultadas](#-fontes-consultadas)  
+[Autores](#-autores)  
 
 # 🚀 Projeto Calendário Interativo
 - Este é um projeto de calendário desenvolvido para trabalhar as habilidades com css e js. O objetivo principal é fornecer uma interface interativa para o usuária. 
