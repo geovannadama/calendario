@@ -23,6 +23,8 @@
 
 - Representar graficamente o passar do tempo
 
+- Tem 4 opções de cor 
+
 ### 💻 Tecnologias utilizadas
 - Git  
 - GitHub  
