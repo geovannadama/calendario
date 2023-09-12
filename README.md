@@ -9,6 +9,7 @@
 
 # 🚀 Projeto Calendário Interativo
 - Este é um projeto de calendário desenvolvido para trabalhar as habilidades com css e js. O objetivo principal é fornecer uma interface interativa para o usuária. 
+![img](img/MicrosoftTeams-image.png)
 
 ## 📝 Descrição 
 - O calendario interativo é uma interface criada através de html, css e js. Com o intuito de trabalhar habilidades na criação de um projeto que permite a interação do usuário na hora de escolher seu dia e deixa-lo destacado.
