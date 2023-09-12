@@ -7,8 +7,8 @@
 [Fontes consultadas](#-fontes-consultadas)  
 [Autores](#-autores)  
 
-# 🚀 Projeto Calendário Interativo
-- Este é um projeto de calendário desenvolvido para trabalhar as habilidades com css e js. O objetivo principal é fornecer uma interface interativa para o usuária. 
+# 🚀 PROJETO CALENDÁRIO INTERATIVO
+ 
 ![img](img/MicrosoftTeams-image.png)
 
 ## 📝 Descrição 
