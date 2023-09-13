@@ -19,11 +19,11 @@
 
 - Mudar cor do dia para deixar em destaque 
 
-- Salvar dia com coloração diferente 
+- Adição de cores na data escolhida
 
 - Representar graficamente o passar do tempo
 
-- Tem 4 opções de cor 
+- 4 opções de cores
 
 ### 💻 Tecnologias utilizadas
 - Git  
@@ -35,7 +35,8 @@
 
 
 ## 🔎 Fontes consultadas
-- Professor Leonardo
+- Professor Leonardo  
+- https://www.alura.com.br/artigos/escrever-bom-readme  
 
 
 ## 🙎🏽 Autores 
