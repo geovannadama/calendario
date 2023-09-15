@@ -9,7 +9,7 @@
 
 # 🚀 PROJETO CALENDÁRIO INTERATIVO
  
-![gif](img/gif%20tela.mp4)
+![gif](img/gif-tela.gif)
 
 ## 📝 Descrição 
 - O calendario interativo é uma interface criada através de html, css e js. Com o intuito de trabalhar habilidades na criação de um projeto que permite a interação do usuário na hora de escolher seu dia e deixa-lo destacado.
